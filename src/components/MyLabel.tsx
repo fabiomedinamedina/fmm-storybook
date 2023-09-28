@@ -37,7 +37,7 @@ export const MyLabel = ({
   label,
   size = "normal",
   color,
-  allCaps = false,
+  allCaps = true,
   fontColor = '',
   backgroundColor = 'transparent'
 }:Props) => {
