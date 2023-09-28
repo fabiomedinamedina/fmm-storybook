@@ -8,7 +8,7 @@
   "main": "dist/index.js",
   "homepage": "https://fabiomedina.com",
   "repository": {
-    "url": "https://github.com/fabiomedinamedina/components-sb",
+    "url": "https://github.com/fabiomedinamedina/fmm-storybook",
     "type": "git"
   },
   "release": {
