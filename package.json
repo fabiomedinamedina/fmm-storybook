@@ -24,7 +24,7 @@
     "react": ">=18"
   },
   "scripts": {
-    "dev": "vite",
+    "dev": "npm run storybook",
     "build": "npm run clean && tsc && npm run copy-files",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
